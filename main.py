@@ -1,4 +1,5 @@
 def foo():
     """add func new commit main"""
-    return "privet"
+    return "123"
+
 #new comment
