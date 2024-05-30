@@ -1,3 +1,3 @@
 def foo():
-    """add func"""
+    """edit add"""
     return None
